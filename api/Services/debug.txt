@@ -1,0 +1,11 @@
+Array
+(
+    [service_id] => 5
+    [name] => Henna
+    [description] => Henna
+    [price] => 80.00
+    [duration] => 20
+    [role] => admin
+    [user_id] => null
+    [csrf_token] => e34956d28f319521f4bd6625c1f3874e93f87d88bd379c2d1604dcffc51b0eaf
+)
